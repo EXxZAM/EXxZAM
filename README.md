@@ -1,4 +1,4 @@
-### Hi there, I'm Mahdi - Known As [EXxZAM][aparat] 👋
+### Hi there, I'm Mahdi - Also Known As [EXxZAM][aparat] 👋
 
   
 
