@@ -13,7 +13,7 @@
 
 
 
-[<img align="left" alt="Instagram" width="22px" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" style="background-color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [<img align="left" alt="Instagram" width="22px" src="https://icon2.cleanpng.com/20180426/isq/kisspng-aparat-tiraj-kar-olenz-web-browser-login-5ae2247203a470.9412862215247699060149.jpg" />][aparat]
