@@ -97,8 +97,9 @@
 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxzam&langs_count=8&theme=tokyonight)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@exxzam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -109,17 +110,14 @@
 
 [website]: https://codeSTACKr.com
 
-[aparat]: https://aparat.com/iranfun2000
+[aparat]: https://aparat.com/exxzamtutorials
 
 [telegram]: http://t.me/exxzam
 
 [instagram]: https://instagram.com/mahdi12ad
 
-[youtube]: https://youtube.com/codeSTACKr
 
-[instagram]: https://instagram.com/codeSTACKr
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 
