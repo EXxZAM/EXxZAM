@@ -9,7 +9,7 @@
   
 
 
-[<img align="left" alt="telegram" width="22px" src="https://mpng.subpng.com/20180404/qje/kisspng-telegram-logo-computer-icons-social-5ac4d3b07d03e4.6297093415228486885121.jpg" />][telegram]
+[<img align="left" alt="telegram" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" />][telegram]
 
 
 
