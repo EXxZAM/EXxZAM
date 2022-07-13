@@ -74,8 +74,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxzam&langs_count=8&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=exxzam](https://github-readme-stats.vercel.app/api/wakatime?username=@exzzam)](https://github.com/anuraghazra/github-readme-stats)
-
+[![exxzam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@exxzam)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
