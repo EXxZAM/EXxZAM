@@ -65,9 +65,10 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight)
+![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=exzzam&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxzam&langs_count=8&theme=tokyonight)
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=exzzam&theme=tokyonight)
 
 [aparat]: https://aparat.com/exxzamtutorials
 
