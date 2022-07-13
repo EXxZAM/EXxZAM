@@ -1,8 +1,5 @@
 ### Hi there, I'm Mahdi - Also Known As [EXxZAM][aparat] 👋
 
-  
-
-[![Website](https://img.shields.io/website?label=EXxZAM&style=for-the-badge&url=https://aparat.com/iranfun2000)](https://aparat.com/iranfun2000)
 
   
   
@@ -12,14 +9,14 @@
   
 
 
-[<img align="left" alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="telegram" width="22px" src="https://mpng.subpng.com/20180404/qje/kisspng-telegram-logo-computer-icons-social-5ac4d3b07d03e4.6297093415228486885121.jpg" />][telegram]
 
 
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Aparat_Icon.png" />][aparat]
+[<img align="left" alt="Instagram" width="22px" src="https://icon2.cleanpng.com/20180426/isq/kisspng-aparat-tiraj-kar-olenz-web-browser-login-5ae2247203a470.9412862215247699060149.jpg" />][aparat]
 
   
 
