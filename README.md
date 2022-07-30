@@ -39,7 +39,7 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-
+[![wakatime](https://wakatime.com/badge/user/12898b36-442d-48fd-90e3-8f2f19dc551b.svg)](https://wakatime.com/@12898b36-442d-48fd-90e3-8f2f19dc551b)
   
 
 <br />
@@ -52,7 +52,7 @@
 
 
 
-![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=exzzam&theme=tokyonight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxzam&langs_count=8&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight)
