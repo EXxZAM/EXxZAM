@@ -55,7 +55,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exxzam&langs_count=8&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EXxZAM&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 
 
